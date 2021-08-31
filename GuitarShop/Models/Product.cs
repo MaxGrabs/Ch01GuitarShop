@@ -1,6 +1,6 @@
 ﻿namespace GuitarShop.Models
 {
-    //its the product class getters and setters.
+    //its the product class getters and setters..
     public class Product
     {
         public int ProductID { get; set; }
